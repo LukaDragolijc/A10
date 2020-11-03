@@ -1,3 +1,7 @@
 h3:hover {
     font-style: italic;
 }
+
+h2 {
+  text-shadow: 2px 2px 4px #800000;
+}
